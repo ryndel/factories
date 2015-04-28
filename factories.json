@@ -9,6 +9,11 @@
 		"url": "https://codenvy.com/f?id=xn9n91ju3khwm375",
 		"image": "https://raw.githubusercontent.com/codenvy/factories/master/images/angularjs.png"
 	},
+	"backbone": {
+		"title": "Backbone.JS",
+		"url": "https://codenvy.com/f?id=xn9n91ju3khwm375",
+		"image": "https://raw.githubusercontent.com/codenvy/factories/master/images/backbone.jpg"
+	},
 	"codeignitor": {
 		"title": "CodeIgnitor Factory PHP",
 		"url": "https://codenvy.com/f?id=ae6xwpag7h18q5vz",
